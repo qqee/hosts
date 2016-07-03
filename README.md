@@ -1,6 +1,6 @@
 ##Advertisement filter list.
 
-<a href="https://github.com/qqee/hosts/raw/master/hosts" title="Download HOSTS file">Download HOSTS file (3MB)</a>
+<a href="https://github.com/qqee/hosts/raw/master/hosts" title="Download HOSTS file">Download HOSTS file</a>
 
 ------------------------
 
